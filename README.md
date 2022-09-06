@@ -1,2 +1,2 @@
 # HtmlProje
-Kodluyoruz.org Proje Ödevleri
+Kodluyoruz.org Proje Ödevleri bu repoda paylaşılacaktır.
